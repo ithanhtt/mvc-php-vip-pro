@@ -1,0 +1,12 @@
+{
+    "name": "mvc/thanh",
+    "type": "library",
+
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "MVC_TRAINING\\": "src/"
+        }
+    }
+}
